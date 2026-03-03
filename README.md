@@ -1,2 +1,1 @@
-
-(https://meeladsam.github.io/g/)
+ https://meeladsam.github.io/social-links/
